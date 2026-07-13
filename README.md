@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **harsh.shigvan.cse@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** java project
-- 🌱 **I’m currently learning:** Master in java
+- 🌱 **I’m currently learning:** java, python 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** harsh.shigvan.cse@gmail.com
 - 😄 **Pronouns:** fly
