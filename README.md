@@ -149,7 +149,7 @@ I enjoy building practical software systems and working across data analytics, f
      ============================================================ -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=640&lines=Continuous+Learning+%7C+Technical+Growth;AI+%26+Technology+%E2%80%A2+Data+Analytics+%E2%80%A2+Development;Always+learning.+Always+building." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=640&lines=Data+Analytics+%E2%80%A2+Full-Stack+Development;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+React+%E2%80%A2+Node.js;AI+%26+ML+%E2%80%A2+Always+Learning+%E2%80%A2+Always+Building"/>
 <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/certificates-banner.svg"/>
 
 <br/><br/>
