@@ -19,7 +19,7 @@
 **Gharda Institute of Technology, Maharashtra, India**
 
 <p align="center">
-  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/profile-header.svg" />
+  <img src="https://github.com/HarshShigvan/HarshShigvan/blob/main/profile%20header.svg" />
 </p>
 
 ---
