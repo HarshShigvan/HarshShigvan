@@ -4,7 +4,7 @@
   <img src="https://github.com/HarshShigvan/HarshShigvan/blob/main/header.svg"/>
 </div>
 <div align="center">
-  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/ai-specialization.svg"/>
+  <img src="https://github.com/HarshShigvan/HarshShigvan/blob/main/aispecialization.svg"/>
 </div>
 
 ---
