@@ -126,7 +126,7 @@ I enjoy building practical software systems and working across data analytics, f
 <table border="0" cellspacing="0" cellpadding="5">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/github-stats.svg" />
+      <img src="https://github.com/HarshShigvan/HarshShigvan/blob/main/github%20stats.svg" />
     </td>
 
   </tr>
