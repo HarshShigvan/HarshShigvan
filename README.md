@@ -512,7 +512,7 @@ I enjoy building practical software systems and working across data analytics, f
 ---
 
 <div align="center">
-  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/session-feedback.svg">
+  <img src="https://github.com/HarshShigvan/HarshShigvan/blob/main/Developer%20Profile.svg">
 </div>
 
 ---
